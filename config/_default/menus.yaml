@@ -1,0 +1,25 @@
+leftnav:
+- identifier: fe049663-7bac-47ad-8893-63bc542bf50f
+  name: About Terrascope
+  pageRef: /external-resources/about-terrascope_fe049663-7bac-47ad-8893-63bc542bf50f
+  weight: 10
+- identifier: cc204c12-18d6-4ae5-b0d9-0e3638a55b48
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 648d84d8-6173-410a-84aa-fe0590d79ce4
+  name: Solving Complex Problems
+  pageRef: /external-resources/solving-complex-problems_648d84d8-6173-410a-84aa-fe0590d79ce4
+  weight: 30
+- identifier: 0db53161-d192-4c34-b4c2-1aced2bf2c4c
+  name: Design for Complex Environmental Issues
+  pageRef: /external-resources/design-for-complex-environmental-issues_0db53161-d192-4c34-b4c2-1aced2bf2c4c
+  weight: 40
+- identifier: 8a3a7858-b573-4676-be87-d8ec5ed2b219
+  name: Terrascope Radio
+  pageRef: /external-resources/terrascope-radio_8a3a7858-b573-4676-be87-d8ec5ed2b219
+  weight: 50
+- identifier: 8eb7fd7c-344c-4bb6-b475-369624b3beb0
+  name: Past Years' Topics
+  pageRef: /external-resources/past-years-topics_8eb7fd7c-344c-4bb6-b475-369624b3beb0
+  weight: 60
