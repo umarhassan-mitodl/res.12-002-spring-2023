@@ -31,7 +31,7 @@
   "course_title": "Terrascope",
   "hide_download": true,
   "mit_learn_topics": [],
-  "course_description": "At the core of Terrascope is one basic but important idea: MIT students, even in their first year, are ready to take control of their own education and tackle big, important problems. Every year Terrascope explores a different issue, and it\u2019s the students who take command. You will work in teams to develop solutions, drawing on diverse perspectives, interdisciplinary research and the resources of the Terrascope community. Along the way, you\u2019ll develop the real-world skills necessary to address sustainability-related challenges, and you will learn about how to organize teams around complex problems of any kind.\u200b\n\nIn the fall class, [*Solving Complex Problems*](https://terrascope.mit.edu/portfolio_page/12-000/)*,* you will develop solutions and present them to a panel of experts. In the spring semester there are two optional classes: [*Design for Complex Environmental Issues*](https://terrascope.mit.edu/portfolio_page/1-016/), in which you will design and prototype specific technologies that address aspects of the year\u2019s Terrascope challenge; and [*Terrascope Radio*](https://terrascope.mit.edu/portfolio_page/sp-360/), in which you will create a radio program to communicate your ideas to the general public.",
+  "course_description": "At the core of Terrascope is one basic but important idea: MIT students, even in their first year, are ready to take control of their own education and tackle big, important problems. Every year Terrascope explores a different issue, and it\u2019s the students who take command. You will work in teams to develop solutions, drawing on diverse perspectives, interdisciplinary research and the resources of the Terrascope community. Along the way, you\u2019ll develop the real-world skills necessary to address sustainability-related challenges, and you will learn about how to organize teams around complex problems of any kind.\u200b\n\nIn the fall class, {{% resource_link \"648d84d8-6173-410a-84aa-fe0590d79ce4\" \"*Solving Complex Problems*\" %}}*,* you will develop solutions and present them to a panel of experts. In the spring semester there are two optional classes: {{% resource_link \"0db53161-d192-4c34-b4c2-1aced2bf2c4c\" \"*Design for Complex Environmental Issues*\" %}}, in which you will design and prototype specific technologies that address aspects of the year\u2019s Terrascope challenge; and {{% resource_link \"8a3a7858-b573-4676-be87-d8ec5ed2b219\" \"*Terrascope Radio*\" %}}, in which you will create a radio program to communicate your ideas to the general public.",
   "department_numbers": [
     "12"
   ],
@@ -41,7 +41,6 @@
     "content": "fde5f4f5-1afa-4b8c-a416-8be7593fa5bb",
     "website": "terrascope"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Podcasts"
   ],
