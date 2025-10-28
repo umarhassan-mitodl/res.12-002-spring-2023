@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-12-002-terrascope-spring-2023/G46Vpp0jPDg_transcript.pdf
 file_size: 46247
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

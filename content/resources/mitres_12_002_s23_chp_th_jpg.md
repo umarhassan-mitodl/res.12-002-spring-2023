@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-12-002-terrascope-spring-2023/mitres_12_002_s23_chp_th.jpg
 file_size: 39942
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
